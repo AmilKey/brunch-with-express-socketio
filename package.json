@@ -1,0 +1,69 @@
+{
+  "author": "Ivan Kobzar <kobzar.ivan1@gmail.com>",
+  "name": "brunch-with-express-socketio",
+  "description": "A Brunch skeleton for developing clean Express applications with Jade, CoffeeScript, Stylus, Twitter Bootstrap and Font Awesome without frameworks ",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AmilKey/brunch-with-express-socketio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmilKey/brunch-with-express-socketio.git"
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9 || 0.10"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "cake build",
+    "test": "cake test"
+  },
+  "dependencies": {
+    "javascript-brunch": ">= 1.6 < 2",
+    "coffee-script-brunch": ">= 1.6 < 2",
+    "css-brunch": ">= 1.6 < 2",
+    "stylus-brunch": ">= 1.6 < 2",
+    "jade-brunch": "*",
+    "uglify-js-brunch": ">= 1.6 < 2",
+    "clean-css-brunch": ">= 1.6 < 2",
+    "auto-reload-brunch": ">= 1.6 < 2",
+    "keyword-brunch": ">= 1.6 < 2",
+
+    "coffeelint-brunch": "> 1.0 < 1.5",
+    "ugly-blanket-brunch": "~1.5.3",
+    "async": "*",
+    "socket.io": "*",
+    "express": "*",
+    "jade": "~0.28.2",
+    "debug": "~0.7.2",
+    "ansi-color": "*",
+    "date-utils": "*",
+    "growl": "*",
+    "cordell": "*"
+  },
+  "devDependencies": {
+    "karma": "0.8.1",
+
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "sinon-chai": "*",
+    "supertest": "*",
+    "blanket": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/AmilKey/brunch-with-express-socketio/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "brunch",
+    "skeleton",
+    "express",
+    "coffeescript",
+    "stylus",
+    "bootstrap",
+    "normalize",
+    "font awesome"
+  ],
+  "license": "MIT"
+}
