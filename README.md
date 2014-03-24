@@ -1,5 +1,5 @@
 # Brunch with Express, Socket.IO, Jade
-An up-to-date [Brunch](http://brunch.io) skeleton for developing clean [Ember](http://emberjs.com) applications with ease.
+An up-to-date [Brunch](http://brunch.io) skeleton for developing clean Web App applications with ease.
 
 It was based on the skeleton from Denis Trayzhon [brunch-with-ember-and-express](https://https://github.com/denya133/brunch-with-ember-and-express) and
 the skeleton from Jeremy Fowler [ExpressBrunchJade](https://github.com/jerfowler/ExpressBrunchJade) but is now much more updated and complex now, tho I'd prefer to keep my original source.
